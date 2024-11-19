@@ -1,0 +1,18 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: financial_advisor_dashboard
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin User
+      password: $2b$12$TuCyX0CObiSCP3F2MLbtT.T4GiX.rYG4OXtN5r1urMFamTwH.9KBm
+    advisor:
+      email: advisor@example.com
+      name: Financial Advisor
+      password: $2b$12$liGVR97hXVvrG0eTrTsb4.txQCbFqfM9cYgwA7TS2hPAOJGM1k3DS
+    analyst:
+      email: analyst@example.com
+      name: Financial Analyst
+      password: $2b$12$8/iyTLJMjyfix1tlvCyb6eLXg0awUcxR4gBorZHK/S56Fc8Mfs0v6
